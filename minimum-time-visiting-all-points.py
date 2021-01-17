@@ -6,7 +6,8 @@ class Solution(object):
         """
         for i, point in enumerate(points):
             print(i)
-            cheese = 0
+            if points[i][0] == points[i + 1][0] or points[i + 1][1] == points[i + 1][1]:
+                2
         return meow
 
             
