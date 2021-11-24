@@ -12,7 +12,7 @@ var uniqueMorseRepresentations = function(words) {
             return morseArr[i]
         }).join('')
     })
-
+    
     return Array.from(new Set(wordArr)).length
 };
 

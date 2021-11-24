@@ -14,4 +14,6 @@ class Solution(object):
         
 meow = Solution()
 
-print(meow.minTimeToVisitAllPoints([[1,1],[3,4],[-1,0]]))
+print(meow.minTimeToVisitAllPoints([[1,1],[3,4],[-1,0]]
+
+
